@@ -1,3 +1,2 @@
-### 365DaysChallenge
 
-This repo contains the codes/solutions of the questions I solve daily.
+This repo contains the codes/solutions of the questions which i solve.
